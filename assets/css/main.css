@@ -4120,3 +4120,7 @@ input, select, textarea {
 					}
 
 	}
+
+	#banner {
+		background-image: url('https://www.pexels.com/photo/empty-road-between-trees-38537/')
+	}
